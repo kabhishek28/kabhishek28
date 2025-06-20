@@ -22,4 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabhishek28&show_icons=true&locale=en&layout=compact" alt="kabhishek28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabhishek28&" alt="kabhishek28" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kabhishek28" alt="GitHub Streak" />
+</p>
