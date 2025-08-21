@@ -84,8 +84,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kabhishek28&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kabhishek28&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak" />
 </p>
+
 
 ---
 
