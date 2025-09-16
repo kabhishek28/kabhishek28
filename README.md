@@ -71,11 +71,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kabhishek28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=kabhishek28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabhishek28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ### 🏆 Achievements
