@@ -67,9 +67,7 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kabhishek28&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false&border_radius=12" alt="Top Languages" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=kabhishek28&theme=dark" alt="GitHub Streak" /></a>
 
 
 <p align="center">
